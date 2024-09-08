@@ -52,3 +52,12 @@
    52  git log
    53  git log --oneline
    54  history > command_list.csv
+   55  git add .
+   56  commit -m "last changes"
+   57  git commit -m "last changes"
+   58  git push
+   59  vim develop_test.txt
+   60  git status
+   61  git add .
+   62  git commit -m "add develop_test"
+   63  history > command_list.csv
